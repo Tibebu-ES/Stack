@@ -1,7 +1,7 @@
 # Implementation and application of Stack Data Structure in Java.
 This repository has two Java classes: Stack and WordReverse.
 The firts class, Stack, implements the following operations:
-  *Push: Add an element to the top of a stack
+  * Push: Add an element to the top of a stack
   *Pop: Remove an element from the top of a stack
   *IsEmpty: Check if the stack is empty
   *IsFull: Check if the stack is full
